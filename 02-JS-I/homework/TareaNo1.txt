@@ -1,0 +1,31 @@
+Tarea No.1 (Por: Luis Angel Lara Garcia)
+
+"Explicar los conceptos como si se los explicara a un niño de 12 años."
+
+Conceptos:
+
+1. Variables:
+Una variable es como un caja con una etiqueta de identificación, esa etiqueta nos puede servir mas tarde para encontrar el caja,
+para crear una variable en javascript se utiliza el comando Var (la caja) seguido del valor (la etiqueta de identificacion);
+Hay tres formas de declarar una variable: 
+Var: que es el mas usado en la version ES5 de javascript que es la mas famosa y usada
+let: es una palabra clave como var pero algo diferente en si, es de ES6 que es la version mas reciente de javascript pero es menos 
+    usada
+const: es una variable que no se puede cambiar nunca y tambien es de la ultima version de javascript ES6.
+
+2. Strings:
+Los Strings son como oraciones pero siempre entre comillas ya sea una sola palabara o varias; tambien se le conocen como cadenas.
+cualquier texto entre comillas es un String.
+
+3. Funciones (argumentos, `return`):
+argumentos: son valores a los que les damos una funcion, como el valor numero le damos la funcion de ingresar un numero, se pueden colocar
+            varios argumentos poniendo una coma entre ellos.
+return: return se utiliza para devolver algo, como el resultado de una suma o el nombre de alguien.
+
+4. Declaraciones `if`:
+if: se usa para decir si algo es verdadero o falso en el codigo ejecutado esto lo hace verificando si es valor es verdadero en caso de no
+    serlo este dira que es falso; es algo complicado de explicar pero en practica es muy facil.
+
+5. Valores booleanos (`true`, `false`)
+true: esto marca cuando una funcion es verdadera o esta en lo correcto.
+false: esto marca cuando una funcion es falsa o esta equivocada.
