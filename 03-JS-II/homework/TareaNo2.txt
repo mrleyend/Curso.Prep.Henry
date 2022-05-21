@@ -1,0 +1,22 @@
+Tarea No.2 (Por: Luis Angel Lara Garcia)
+
+"Explicar los conceptos como si se los explicara a un niño de 12 años."
+
+Conceptos:
+
+for: Es parecido a "if" pero algo mas dificil y compleja. Despues de usar "for" le siguen dos parentecis en los que vamos a hacer tres cosas;
+en primera vamos a declarar una variable que se repetira las veces que le digamos hasta que la declaracion de "false".
+por ultimo aumentaremos el valor de la variable. en resumen sonn tres declaraciones de la misma variable, una diciendo cual es su valor inicial
+otra que es el numero de veces que esta se va repetir el bucle y la ultima que es la que aumentara la variable; todas estas declaraciones
+deben de estar separadas por un punto y coma (;)-
+
+`&&`, `||`, `!` :
+
+"&&": Esto evalua ambas expresiones que le demos y devolvera "verdadero" si ambas expresiones son true, si una expresion esta mal 
+    o este incorrecta  este comando devolvera "false".
+
+"||": este operador nos dice si una de las expresiones dadas son true, si una o ambas expresiones son true nos devolvera "true" si las dos
+    estan equivocadas nos devolvera "false".
+
+"!": Este operador devolvera el valor booleano de lo contrario, por ejemplo si es una expresion es false este operador nos devolvera "true"
+     de igua forma si la expresion dada es true este operador nos devolvera "false".
