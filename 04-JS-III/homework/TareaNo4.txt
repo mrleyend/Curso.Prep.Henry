@@ -1,0 +1,16 @@
+Tarea No.3 (Por: Luis Angel Lara Garcia)
+
+"Explica el siguiente concepto como si se los explicara a un niño de 12 años."
+
+Concepto:
+
+Arrays: Las matricez o arreglos mejor conocidos como "arrays" se utilizan para agregar varios tipos de datos (string, boolean, numerico)
+         en una variable. Para crear un Array se utilizan "[]" el cual contendra los tipos de datos separados por una coma (,) y cerrando con
+         punto y coma (;).
+         Para llamar una array se usa el "console.log ("nombre de la variante".length);" esto mostrara el numero de datos que contiene ese array 
+         Por ejemplo: 
+         
+         const nombres = [luis, angel, jose, mike];
+         console.log (nombres.length); 
+         
+         Esto daria como resultado al numero "4" por que son cuatro datos (en este caso son los nombres) que estan dentro de ese array.
